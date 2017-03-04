@@ -7,7 +7,7 @@
 [![Code Climate](https://codeclimate.com/github/therebelrobot/google-adwords-reports/badges/gpa.svg)](https://codeclimate.com/github/therebelrobot/google-adwords-reports)
 [![Test Coverage](https://codeclimate.com/github/therebelrobot/google-adwords-reports/badges/coverage.svg)](https://codeclimate.com/github/therebelrobot/google-adwords-reports)-->
 
-A Node.js driver for Google Adwords Reporting API (v201603)
+A Node.js driver for Google Adwords Reporting API (v201702)
 
 ## Contents
 - [Install](#install)
@@ -228,7 +228,7 @@ ga.awql()
 
 ## Contributing
 
-To contribute code to this module, please follow this workflow: 
+To contribute code to this module, please follow this workflow:
 
 1. fork the repo
 2. make sure to install dev dependencies using
